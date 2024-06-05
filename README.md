@@ -1,4 +1,5 @@
-# https-github.com-BrMaro-PakakumiAutomation
+# https-github.com-BrMaro-PakakumiAutomation  git commit -m "Add Aviator Bot 
+
 pakakumi aviator 
 PakakumiAutomation
 This script automates the betting process for the crash-style game Pakakumi, primarily based in Kenya. It utilizes the Selenium framework to interact with the game website and implement various strategies for betting.
